@@ -1,0 +1,22 @@
+{
+  "name": "cpp-wrapper",
+  "version": "1.0.0",
+  "description": "'C++ wrapper to call C++ programs from node.js: pass inputs and collect output\"",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aladdine/cpp-wrapper.git"
+  },
+  "keywords": [
+    "C++"
+  ],
+  "author": "Alaeddine Mokri <alaeddinemokri@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aladdine/cpp-wrapper/issues"
+  },
+  "homepage": "https://github.com/aladdine/cpp-wrapper#readme"
+}
